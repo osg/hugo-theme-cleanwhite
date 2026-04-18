@@ -208,7 +208,7 @@ reward = true
 
 ### Mind Map
 
-Mind Map is supported with shortcode 'mind', instering the following code snippet into  your markdown file can create a mind map showing in the screenshots.
+Mind Map is supported with shortcode 'mind', inserting the following code snippet into your markdown file can create a mind map showing in the screenshots.
 
 ```markdown
 {{% mind %}}
